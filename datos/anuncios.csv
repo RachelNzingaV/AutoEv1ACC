@@ -1,0 +1,41 @@
+id;titulo;categoria;precio;estado;barrio;fecha_publicacion;visitas;vendido
+1;iPhone 12 64 GB con funda;Móviles;230;Buen estado;San Blas;2026-09-01;412;true
+2;Bici de montaña talla M;Bicis y patinetes;140;Usado;Vallecas;2026-09-02;187;false
+3;Mando de PS5 blanco;Consolas y juegos;35;Como nuevo;Usera;2026-09-03;96;true
+4;Zapatillas Air Max talla 42;Ropa y zapatillas;45;Buen estado;Carabanchel;2026-09-03;254;true
+5;Manga One Piece tomos 1 a 10;Libros y cómics;50;Buen estado;Tetuán;2026-09-05;133;false
+6;Microondas con grill;Hogar;40;Usado;Villaverde;2026-09-06;58;false
+7;Nintendo Switch OLED;Consolas y juegos;210;Como nuevo;Latina;2026-09-07;389;true
+8;Patinete eléctrico 25 km/h;Bicis y patinetes;180;Buen estado;San Blas;2026-09-08;301;false
+9;Samsung Galaxy A54;Móviles;160;Como nuevo;Usera;2026-09-09;222;false
+10;Chaqueta vaquera talla L;Ropa y zapatillas;15;Usado;Tetuán;2026-09-10;41;false
+11;Libros de 1.º de DAM;Libros y cómics;60;Buen estado;Vallecas;2026-09-11;77;true
+12;Sofá de dos plazas gris;Hogar;90;Buen estado;Carabanchel;2026-09-12;165;false
+13;FIFA 26 para PS5;Consolas y juegos;30;Como nuevo;Villaverde;2026-09-13;148;true
+14;Cargador rápido USB-C 65 W;Móviles;12;Nuevo;Latina;2026-09-14;39;false
+15;Casco de bici con luz;Bicis y patinetes;20;Como nuevo;Usera;2026-09-15;64;false
+16;Sudadera con capucha negra;Ropa y zapatillas;18;Buen estado;San Blas;2026-09-16;52;true
+17;Cómic Spider-Man edición tapa;Libros y cómics;25;Como nuevo;Tetuán;2026-09-17;88;false
+18;Lámpara de pie LED;Hogar;22;Buen estado;Vallecas;2026-09-18;47;false
+19;Xbox Series S con dos juegos;Consolas y juegos;190;Buen estado;Carabanchel;2026-09-19;276;false
+20;Xiaomi Redmi Note 13;Móviles;120;Buen estado;Villaverde;2026-09-20;143;true
+21;BMX para niño de 20 pulgadas;Bicis y patinetes;70;Usado;Latina;2026-09-21;92;false
+22;Botas de fútbol talla 41;Ropa y zapatillas;20;Usado;Usera;2026-09-22;36;false
+23;Novela Dune edición bolsillo;Libros y cómics;6;Buen estado;San Blas;2026-09-23;19;false
+24;Freidora de aire 4 litros;Hogar;35;Como nuevo;Tetuán;2026-09-24;198;true
+25;Auriculares gaming con micro;Consolas y juegos;28;Buen estado;Vallecas;2026-09-26;117;false
+26;iPhone 13 128 GB;Móviles;340;Como nuevo;Carabanchel;2026-09-27;467;false
+27;Candado de cable para bici;Bicis y patinetes;8;Nuevo;Villaverde;2026-09-28;22;true
+28;Vestido de fiesta talla S;Ropa y zapatillas;30;Como nuevo;Latina;2026-09-29;71;false
+29;Atlas de anatomía;Libros y cómics;15;Usado;Usera;2026-09-30;13;false
+30;Mesa de estudio blanca;Hogar;45;Buen estado;San Blas;2026-10-01;104;false
+31;PS4 Slim 500 GB;Consolas y juegos;110;Usado;Tetuán;2026-10-02;233;true
+32;Funda para Galaxy S23;Móviles;5;Nuevo;Vallecas;2026-10-03;11;false
+33;Bici de paseo con cesta;Bicis y patinetes;95;Buen estado;Carabanchel;2026-10-05;158;false
+34;Abrigo de plumas talla M;Ropa y zapatillas;40;Buen estado;Villaverde;2026-10-07;86;false
+35;Manga Naruto tomos 1 a 5;Libros y cómics;22;Usado;Latina;2026-10-09;67;true
+36;Cafetera de cápsulas;Hogar;25;Buen estado;Usera;2026-10-11;73;false
+37;Volante y pedales para PC;Consolas y juegos;85;Buen estado;San Blas;2026-10-14;129;false
+38;Google Pixel 7a;Móviles;190;Buen estado;Tetuán;2026-10-17;156;false
+39;Patinete sin motor plegable;Bicis y patinetes;25;Usado;Vallecas;2026-10-20;34;false
+40;Zapatillas de running talla 39;Ropa y zapatillas;28;Como nuevo;Carabanchel;2026-10-23;45;false

@@ -1,0 +1,401 @@
+[ {
+  "id" : 1,
+  "titulo" : "iPhone 12 64 GB con funda",
+  "categoria" : "Móviles",
+  "precio" : 230.0,
+  "estado" : "Buen estado",
+  "barrio" : "San Blas",
+  "fechaPublicacion" : "2026-09-01",
+  "visitas" : 412,
+  "vendido" : true
+}, {
+  "id" : 2,
+  "titulo" : "Bici de montaña talla M",
+  "categoria" : "Bicis y patinetes",
+  "precio" : 140.0,
+  "estado" : "Usado",
+  "barrio" : "Vallecas",
+  "fechaPublicacion" : "2026-09-02",
+  "visitas" : 187,
+  "vendido" : false
+}, {
+  "id" : 3,
+  "titulo" : "Mando de PS5 blanco",
+  "categoria" : "Consolas y juegos",
+  "precio" : 35.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Usera",
+  "fechaPublicacion" : "2026-09-03",
+  "visitas" : 96,
+  "vendido" : true
+}, {
+  "id" : 4,
+  "titulo" : "Zapatillas Air Max talla 42",
+  "categoria" : "Ropa y zapatillas",
+  "precio" : 45.0,
+  "estado" : "Buen estado",
+  "barrio" : "Carabanchel",
+  "fechaPublicacion" : "2026-09-03",
+  "visitas" : 254,
+  "vendido" : true
+}, {
+  "id" : 5,
+  "titulo" : "Manga One Piece tomos 1 a 10",
+  "categoria" : "Libros y cómics",
+  "precio" : 50.0,
+  "estado" : "Buen estado",
+  "barrio" : "Tetuán",
+  "fechaPublicacion" : "2026-09-05",
+  "visitas" : 133,
+  "vendido" : false
+}, {
+  "id" : 6,
+  "titulo" : "Microondas con grill",
+  "categoria" : "Hogar",
+  "precio" : 40.0,
+  "estado" : "Usado",
+  "barrio" : "Villaverde",
+  "fechaPublicacion" : "2026-09-06",
+  "visitas" : 58,
+  "vendido" : false
+}, {
+  "id" : 7,
+  "titulo" : "Nintendo Switch OLED",
+  "categoria" : "Consolas y juegos",
+  "precio" : 210.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Latina",
+  "fechaPublicacion" : "2026-09-07",
+  "visitas" : 389,
+  "vendido" : true
+}, {
+  "id" : 8,
+  "titulo" : "Patinete eléctrico 25 km/h",
+  "categoria" : "Bicis y patinetes",
+  "precio" : 180.0,
+  "estado" : "Buen estado",
+  "barrio" : "San Blas",
+  "fechaPublicacion" : "2026-09-08",
+  "visitas" : 301,
+  "vendido" : false
+}, {
+  "id" : 9,
+  "titulo" : "Samsung Galaxy A54",
+  "categoria" : "Móviles",
+  "precio" : 160.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Usera",
+  "fechaPublicacion" : "2026-09-09",
+  "visitas" : 222,
+  "vendido" : false
+}, {
+  "id" : 10,
+  "titulo" : "Chaqueta vaquera talla L",
+  "categoria" : "Ropa y zapatillas",
+  "precio" : 15.0,
+  "estado" : "Usado",
+  "barrio" : "Tetuán",
+  "fechaPublicacion" : "2026-09-10",
+  "visitas" : 41,
+  "vendido" : false
+}, {
+  "id" : 11,
+  "titulo" : "Libros de 1.º de DAM",
+  "categoria" : "Libros y cómics",
+  "precio" : 60.0,
+  "estado" : "Buen estado",
+  "barrio" : "Vallecas",
+  "fechaPublicacion" : "2026-09-11",
+  "visitas" : 77,
+  "vendido" : true
+}, {
+  "id" : 12,
+  "titulo" : "Sofá de dos plazas gris",
+  "categoria" : "Hogar",
+  "precio" : 90.0,
+  "estado" : "Buen estado",
+  "barrio" : "Carabanchel",
+  "fechaPublicacion" : "2026-09-12",
+  "visitas" : 165,
+  "vendido" : false
+}, {
+  "id" : 13,
+  "titulo" : "FIFA 26 para PS5",
+  "categoria" : "Consolas y juegos",
+  "precio" : 30.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Villaverde",
+  "fechaPublicacion" : "2026-09-13",
+  "visitas" : 148,
+  "vendido" : true
+}, {
+  "id" : 14,
+  "titulo" : "Cargador rápido USB-C 65 W",
+  "categoria" : "Móviles",
+  "precio" : 12.0,
+  "estado" : "Nuevo",
+  "barrio" : "Latina",
+  "fechaPublicacion" : "2026-09-14",
+  "visitas" : 39,
+  "vendido" : false
+}, {
+  "id" : 15,
+  "titulo" : "Casco de bici con luz",
+  "categoria" : "Bicis y patinetes",
+  "precio" : 20.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Usera",
+  "fechaPublicacion" : "2026-09-15",
+  "visitas" : 64,
+  "vendido" : false
+}, {
+  "id" : 16,
+  "titulo" : "Sudadera con capucha negra",
+  "categoria" : "Ropa y zapatillas",
+  "precio" : 18.0,
+  "estado" : "Buen estado",
+  "barrio" : "San Blas",
+  "fechaPublicacion" : "2026-09-16",
+  "visitas" : 52,
+  "vendido" : true
+}, {
+  "id" : 17,
+  "titulo" : "Cómic Spider-Man edición tapa",
+  "categoria" : "Libros y cómics",
+  "precio" : 25.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Tetuán",
+  "fechaPublicacion" : "2026-09-17",
+  "visitas" : 88,
+  "vendido" : false
+}, {
+  "id" : 18,
+  "titulo" : "Lámpara de pie LED",
+  "categoria" : "Hogar",
+  "precio" : 22.0,
+  "estado" : "Buen estado",
+  "barrio" : "Vallecas",
+  "fechaPublicacion" : "2026-09-18",
+  "visitas" : 47,
+  "vendido" : false
+}, {
+  "id" : 19,
+  "titulo" : "Xbox Series S con dos juegos",
+  "categoria" : "Consolas y juegos",
+  "precio" : 190.0,
+  "estado" : "Buen estado",
+  "barrio" : "Carabanchel",
+  "fechaPublicacion" : "2026-09-19",
+  "visitas" : 276,
+  "vendido" : false
+}, {
+  "id" : 20,
+  "titulo" : "Xiaomi Redmi Note 13",
+  "categoria" : "Móviles",
+  "precio" : 120.0,
+  "estado" : "Buen estado",
+  "barrio" : "Villaverde",
+  "fechaPublicacion" : "2026-09-20",
+  "visitas" : 143,
+  "vendido" : true
+}, {
+  "id" : 21,
+  "titulo" : "BMX para niño de 20 pulgadas",
+  "categoria" : "Bicis y patinetes",
+  "precio" : 70.0,
+  "estado" : "Usado",
+  "barrio" : "Latina",
+  "fechaPublicacion" : "2026-09-21",
+  "visitas" : 92,
+  "vendido" : false
+}, {
+  "id" : 22,
+  "titulo" : "Botas de fútbol talla 41",
+  "categoria" : "Ropa y zapatillas",
+  "precio" : 20.0,
+  "estado" : "Usado",
+  "barrio" : "Usera",
+  "fechaPublicacion" : "2026-09-22",
+  "visitas" : 36,
+  "vendido" : false
+}, {
+  "id" : 23,
+  "titulo" : "Novela Dune edición bolsillo",
+  "categoria" : "Libros y cómics",
+  "precio" : 6.0,
+  "estado" : "Buen estado",
+  "barrio" : "San Blas",
+  "fechaPublicacion" : "2026-09-23",
+  "visitas" : 19,
+  "vendido" : false
+}, {
+  "id" : 24,
+  "titulo" : "Freidora de aire 4 litros",
+  "categoria" : "Hogar",
+  "precio" : 35.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Tetuán",
+  "fechaPublicacion" : "2026-09-24",
+  "visitas" : 198,
+  "vendido" : true
+}, {
+  "id" : 25,
+  "titulo" : "Auriculares gaming con micro",
+  "categoria" : "Consolas y juegos",
+  "precio" : 28.0,
+  "estado" : "Buen estado",
+  "barrio" : "Vallecas",
+  "fechaPublicacion" : "2026-09-26",
+  "visitas" : 117,
+  "vendido" : false
+}, {
+  "id" : 26,
+  "titulo" : "iPhone 13 128 GB",
+  "categoria" : "Móviles",
+  "precio" : 340.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Carabanchel",
+  "fechaPublicacion" : "2026-09-27",
+  "visitas" : 467,
+  "vendido" : false
+}, {
+  "id" : 27,
+  "titulo" : "Candado de cable para bici",
+  "categoria" : "Bicis y patinetes",
+  "precio" : 8.0,
+  "estado" : "Nuevo",
+  "barrio" : "Villaverde",
+  "fechaPublicacion" : "2026-09-28",
+  "visitas" : 22,
+  "vendido" : true
+}, {
+  "id" : 28,
+  "titulo" : "Vestido de fiesta talla S",
+  "categoria" : "Ropa y zapatillas",
+  "precio" : 30.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Latina",
+  "fechaPublicacion" : "2026-09-29",
+  "visitas" : 71,
+  "vendido" : false
+}, {
+  "id" : 29,
+  "titulo" : "Atlas de anatomía",
+  "categoria" : "Libros y cómics",
+  "precio" : 15.0,
+  "estado" : "Usado",
+  "barrio" : "Usera",
+  "fechaPublicacion" : "2026-09-30",
+  "visitas" : 13,
+  "vendido" : false
+}, {
+  "id" : 30,
+  "titulo" : "Mesa de estudio blanca",
+  "categoria" : "Hogar",
+  "precio" : 45.0,
+  "estado" : "Buen estado",
+  "barrio" : "San Blas",
+  "fechaPublicacion" : "2026-10-01",
+  "visitas" : 104,
+  "vendido" : false
+}, {
+  "id" : 31,
+  "titulo" : "PS4 Slim 500 GB",
+  "categoria" : "Consolas y juegos",
+  "precio" : 110.0,
+  "estado" : "Usado",
+  "barrio" : "Tetuán",
+  "fechaPublicacion" : "2026-10-02",
+  "visitas" : 233,
+  "vendido" : true
+}, {
+  "id" : 32,
+  "titulo" : "Funda para Galaxy S23",
+  "categoria" : "Móviles",
+  "precio" : 5.0,
+  "estado" : "Nuevo",
+  "barrio" : "Vallecas",
+  "fechaPublicacion" : "2026-10-03",
+  "visitas" : 11,
+  "vendido" : false
+}, {
+  "id" : 33,
+  "titulo" : "Bici de paseo con cesta",
+  "categoria" : "Bicis y patinetes",
+  "precio" : 95.0,
+  "estado" : "Buen estado",
+  "barrio" : "Carabanchel",
+  "fechaPublicacion" : "2026-10-05",
+  "visitas" : 158,
+  "vendido" : false
+}, {
+  "id" : 34,
+  "titulo" : "Abrigo de plumas talla M",
+  "categoria" : "Ropa y zapatillas",
+  "precio" : 40.0,
+  "estado" : "Buen estado",
+  "barrio" : "Villaverde",
+  "fechaPublicacion" : "2026-10-07",
+  "visitas" : 86,
+  "vendido" : false
+}, {
+  "id" : 35,
+  "titulo" : "Manga Naruto tomos 1 a 5",
+  "categoria" : "Libros y cómics",
+  "precio" : 22.0,
+  "estado" : "Usado",
+  "barrio" : "Latina",
+  "fechaPublicacion" : "2026-10-09",
+  "visitas" : 67,
+  "vendido" : true
+}, {
+  "id" : 36,
+  "titulo" : "Cafetera de cápsulas",
+  "categoria" : "Hogar",
+  "precio" : 25.0,
+  "estado" : "Buen estado",
+  "barrio" : "Usera",
+  "fechaPublicacion" : "2026-10-11",
+  "visitas" : 73,
+  "vendido" : false
+}, {
+  "id" : 37,
+  "titulo" : "Volante y pedales para PC",
+  "categoria" : "Consolas y juegos",
+  "precio" : 85.0,
+  "estado" : "Buen estado",
+  "barrio" : "San Blas",
+  "fechaPublicacion" : "2026-10-14",
+  "visitas" : 129,
+  "vendido" : false
+}, {
+  "id" : 38,
+  "titulo" : "Google Pixel 7a",
+  "categoria" : "Móviles",
+  "precio" : 190.0,
+  "estado" : "Buen estado",
+  "barrio" : "Tetuán",
+  "fechaPublicacion" : "2026-10-17",
+  "visitas" : 156,
+  "vendido" : false
+}, {
+  "id" : 39,
+  "titulo" : "Patinete sin motor plegable",
+  "categoria" : "Bicis y patinetes",
+  "precio" : 25.0,
+  "estado" : "Usado",
+  "barrio" : "Vallecas",
+  "fechaPublicacion" : "2026-10-20",
+  "visitas" : 34,
+  "vendido" : false
+}, {
+  "id" : 40,
+  "titulo" : "Zapatillas de running talla 39",
+  "categoria" : "Ropa y zapatillas",
+  "precio" : 28.0,
+  "estado" : "Como nuevo",
+  "barrio" : "Carabanchel",
+  "fechaPublicacion" : "2026-10-23",
+  "visitas" : 45,
+  "vendido" : false
+} ]
